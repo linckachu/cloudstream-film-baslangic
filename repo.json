@@ -3,6 +3,6 @@
   "description": "CloudStream film eklentisi beta",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/YOUR_USER/cloudstream-film-baslangic/builds/plugins.json"
+    "https://raw.githubusercontent.com/linckachu/cloudstream-film-baslangic/builds/plugins.json"
   ]
 }
